@@ -11,5 +11,6 @@ package foco.model;
  */
 public class Usuario {
   private String nome;
+  private String password;
     
 }
