@@ -5,17 +5,20 @@
  */
 package foco;
 
+import foco.view.Principal;
+
 /**
  *
  * @author Estudante-9
+ * 
  */
 public class FOCO {
-
     /**
      * @param args the command line arguments
-     */
+     *
+     * /
     public static void main(String[] args) {
-      
+      new Principal().setVisible(true);
     }
     
 }
