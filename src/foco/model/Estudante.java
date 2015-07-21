@@ -9,6 +9,7 @@ import java.util.Date;
 
 /**
  *
+ *
  * @author Estudante-9
  */
 public class Estudante {
@@ -81,6 +82,5 @@ public class Estudante {
     public void setEmail(String Email) {
         this.Email = Email;
     }
-    
-    
+
 }
